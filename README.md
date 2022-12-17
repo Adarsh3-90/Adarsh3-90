@@ -35,7 +35,6 @@ src="https://img.shields.io/github/followers/Adarsh3-90?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Adarsh kumar#5826" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Adarsh3-90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adarsh-kumar-b05790227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/adarsh kumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -44,8 +43,6 @@ src="https://img.shields.io/github/followers/Adarsh3-90?logo=github&style=for-th
 <a href="http://www.github.com/Adarsh3-90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh3-90&stroke=10b981&background=000000&ring=64748b&fire=64748b&currStreakNum=10b981&currStreakLabel=64748b&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <a href="http://www.github.com/Adarsh3-90"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adarsh3-90&bg_color=000000&color=10b981&line=84cc16&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Adarsh3-90" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh3-90&langs_count=10&title_color=64748b&text_color=10b981&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
